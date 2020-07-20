@@ -1,0 +1,5 @@
+WP SET VIEW PROPERTIES:C1648(*;"WParea";New object:C1471(wk visible references:K81:286;False:C215))
+
+OBJECT SET ENABLED:C1123(*;"rb3";True:C214)
+OBJECT SET ENABLED:C1123(*;"rb4";True:C214)
+
